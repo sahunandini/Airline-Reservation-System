@@ -9,7 +9,7 @@ Features:-
 
 The Airline Reservation System has the following features:
 
-1. Customer registration and login.
+1. Customer registration and login
 2. Flight search and booking
 3. Booking cancellation and modification
 4. Payment processing
@@ -42,7 +42,7 @@ git clone https://github.com/sahunandini/Airline-Reservation-System.git
 
 5. Build and run the project using the Run Project button in NetBeans.
 
-6. You can now access the Airline Reservation System by opening a web browser and navigating to http://localhost:8080/Airline-Reservation-System.
+6. You can now access the Airline Reservation System by opening a web browser and navigating to http://localhost:8080/Airline-Reservation-System
 
 
 Usage:-
