@@ -1,4 +1,4 @@
-# AIRLINE RESERVATION SYSTEM ✈🛩🛫🛬
+# AIRLINE RESERVATION SYSTEM ✈
 
 The Airline Reservation System is a software application that manages the process of booking and managing flights for an airline. This system allows customers to search for available flights, make reservations, cancel or modify existing bookings, and make payments.
 
