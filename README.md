@@ -1,6 +1,6 @@
 # AIRLINE RESERVATION SYSTEM ✈
 
-The Airline Reservation System 🛩 is a software application that manages the process of booking and managing flights for an airline. This system allows customers to search for available flights, make reservations, cancel or modify existing bookings, and make payments.
+The Airline Reservation System ✈ is a software application that manages the process of booking and managing flights for an airline. This system allows customers to search for available flights, make reservations, cancel or modify existing bookings, and make payments.
 
 The Airline Reservation System is developed using Java, Java Swing (NetBeans), AWT, and MySQL. It is designed to be a robust and efficient system that meets the needs of both the airline and its customers.
 
