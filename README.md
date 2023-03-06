@@ -66,4 +66,10 @@ The Airline Reservation System is developed by Nandini Sahu.
 
 Sreenshots:-
 
+<img width="960" alt="Screenshot 2023-03-06 193308" src="https://user-images.githubusercontent.com/117564136/223134256-701701bb-0638-4bc3-8128-1a4635e6de4e.png">
+
+<img width="960" alt="Screenshot 2023-03-06 193853" src="https://user-images.githubusercontent.com/117564136/223134346-85829e3c-6cf6-4229-ad94-3468b26ea0f1.png">
+
+<img width="960" alt="Screenshot 2023-03-06 193959" src="https://user-images.githubusercontent.com/117564136/223134360-8fbea06a-1ac6-429c-9662-be08efadd2b8.png">
+
 
