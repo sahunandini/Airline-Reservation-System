@@ -29,9 +29,7 @@ Installation:-
 
 To install the Airline Reservation System, follow these steps:
 
-1. Clone the repository from GitHub using the following command:
-
-  Copy code - git clone https://github.com/sahunandini/Airline-Reservation-System.git
+1. Clone the repository from GitHub using the following command: Copy code - git clone https://github.com/sahunandini/Airline-Reservation-System.git
 
 2. Open NetBeans IDE and open the project by selecting File > Open Project and selecting the cloned project.
 
