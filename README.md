@@ -5,7 +5,7 @@ The Airline Reservation System ✈ is a software application that manages the pr
 The Airline Reservation System is developed using Java, Java Swing (NetBeans), AWT, and MySQL. It is designed to be a robust and efficient system that meets the needs of both the airline and its customers.
 
 
-Features:-
+## Features:-
 
 The Airline Reservation System has the following features:
 
@@ -16,7 +16,7 @@ The Airline Reservation System has the following features:
 5. Flight status check
 
 
-Requirements:-
+## Requirements:-
 
 To run the Airline Reservation System, you need to have the following software installed on your computer:
 
@@ -25,7 +25,7 @@ To run the Airline Reservation System, you need to have the following software i
 3. MySQL 5.6 or higher
 
 
-Installation:-
+## Installation:-
 
 To install the Airline Reservation System, follow these steps:
 
@@ -42,7 +42,7 @@ To install the Airline Reservation System, follow these steps:
 6. You can now access the Airline Reservation System.
 
 
-Usage:-
+## Usage:-
 
 To use the Airline Reservation System, follow these steps:
 
@@ -59,12 +59,12 @@ To use the Airline Reservation System, follow these steps:
 6. You can check your flight status by entering your booking reference number on the Flight Status page.
 
 
-Credits:-
+## Credits:-
 
 The Airline Reservation System is developed by Nandini Sahu.
 
 
-Sreenshots:-
+## Sreenshots:-
 
 <img width="960" alt="Screenshot 2023-03-06 194611" src="https://user-images.githubusercontent.com/117564136/223135262-9b00fd7c-4175-4695-a999-02ca57ae4fe4.png">
 
